@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNGSuite" duration-ms="28871" started-at="2021-05-25T12:29:18 CDT" finished-at="2021-05-25T12:29:47 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28871" started-at="2021-05-25T12:29:18 CDT" finished-at="2021-05-25T12:29:47 CDT">
+      <class name="com.qa.facebook.testcases.SearchDataDrivenf">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="setup" is-config="true" duration-ms="2769" started-at="2021-05-25T12:29:15 CDT" finished-at="2021-05-25T12:29:18 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="beforeClass" is-config="true" duration-ms="7293" started-at="2021-05-25T12:29:18 CDT" finished-at="2021-05-25T12:29:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchdatadriverf(java.lang.String)[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="searchdatadriverf" duration-ms="4886" started-at="2021-05-25T12:29:26 CDT" data-provider="getData" finished-at="2021-05-25T12:29:31 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roja]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchdatadriverf -->
+        <test-method status="PASS" signature="searchdatadriverf(java.lang.String)[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="searchdatadriverf" duration-ms="4992" started-at="2021-05-25T12:29:31 CDT" data-provider="getData" finished-at="2021-05-25T12:29:36 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[govind]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchdatadriverf -->
+        <test-method status="PASS" signature="searchdatadriverf(java.lang.String)[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="searchdatadriverf" duration-ms="4944" started-at="2021-05-25T12:29:36 CDT" data-provider="getData" finished-at="2021-05-25T12:29:40 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anjali]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchdatadriverf -->
+        <test-method status="PASS" signature="searchdatadriverf(java.lang.String)[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="searchdatadriverf" duration-ms="4905" started-at="2021-05-25T12:29:40 CDT" data-provider="getData" finished-at="2021-05-25T12:29:45 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sahith]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchdatadriverf -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="afterClass" is-config="true" duration-ms="1410" started-at="2021-05-25T12:29:45 CDT" finished-at="2021-05-25T12:29:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebook.testcases.SearchDataDrivenf@31f924f5]" name="tearDown" is-config="true" duration-ms="685" started-at="2021-05-25T12:29:47 CDT" finished-at="2021-05-25T12:29:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.facebook.testcases.SearchDataDrivenf -->
+    </test> <!-- Test -->
+  </suite> <!-- TestNGSuite -->
+</testng-results>
